@@ -5,6 +5,7 @@
 ```gifff
 [FadelSM@void ~]$ fetch
 @@hi! my name is FadelSM, welcome to my github profile@@
+I from Indonesia
 ```
 
 ## Contact Me
