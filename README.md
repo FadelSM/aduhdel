@@ -10,7 +10,7 @@ I from
 Indonesia
 ```
 
-## Contact Me
+## Me
 
 - **WhatsApp Channel**: [Join Here](https://whatsapp.com/channel/0029VaxkfpeG8l55XNsBaq3Q)
 - **Tiktok Me**: [Join Here](https://www.tiktok.com/@fadelshafwn?_t=ZS-8wOYUXN545J&_r=1)
