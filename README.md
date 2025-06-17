@@ -2,9 +2,10 @@
 
 <img align="left" height="170" src="computer.gif"/>
 
+```gifff
 [FadelSM@void ~]$ fetch
 @@hi! my name is FadelSM, welcome to my github profile@@
-
+```
 
 ## Contact Me
 
