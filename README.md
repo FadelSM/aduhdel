@@ -3,7 +3,10 @@
 <img align="left" height="170" src="computer.gif"/>
 
 ```gifff
-hi! my name is FadelSM,I from Indonesia
+hi! my
+name is
+FadelSM,
+I from Indonesia
 ```
 
 ## Contact Me
