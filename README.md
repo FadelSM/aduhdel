@@ -5,8 +5,6 @@
 [FadelSM@void ~]$ fetch
 @@hi! my name is FadelSM, welcome to my github profile@@
 
-> *"Jika tidak rusak, jangan perbaiki; jika bisa lebih baik, selalu perbaiki."*
-
 ## Contact Me
 
 - **WhatsApp Channel**: [Join Here](https://whatsapp.com/channel/0029VaxkfpeG8l55XNsBaq3Q)
