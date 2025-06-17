@@ -4,9 +4,6 @@
 
 [FadelSM@void ~]$ fetch
 @@hi! my name is FadelSM, welcome to my github profile@@
-+ im from Indonesia
-! metalhead
-# i rice linux
 
 > *"Jika tidak rusak, jangan perbaiki; jika bisa lebih baik, selalu perbaiki."*
 
