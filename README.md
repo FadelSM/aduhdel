@@ -1,6 +1,13 @@
 # Who Am I?
 
-![Profile Photo](https://files.catbox.moe/5un2gr.png)
+<img align="left" height="170" src="computer.gif"/>
+
+```diff
+[FadelSM@void ~]$ fetch
+@@hi! my name is FadelSM, welcome to my github profile@@
++ im from Indonesia
+! metalhead
+# i rice linux
 
 > *"Jika tidak rusak, jangan perbaiki; jika bisa lebih baik, selalu perbaiki."*
 
