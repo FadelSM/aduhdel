@@ -3,9 +3,7 @@
 <img align="left" height="170" src="computer.gif"/>
 
 ```gifff
-[FadelSM@void ~]$ fetch
-@@hi! my name is FadelSM, welcome to my github profile@@
-I from Indonesia
+hi! my name is FadelSM,I from Indonesia
 ```
 
 ## Contact Me
